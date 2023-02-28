@@ -239,10 +239,6 @@ ul {
   padding: 120px 0;
 }
 
-.section-1 h3 {
-  margin-bottom: 8px;
-}
-
 .advantages-list {
   display: flex;
   gap: 24px;
@@ -258,6 +254,7 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .main-text {
@@ -392,7 +389,6 @@ ul {
 .btn-page:active {
   background-color: var(--ctas-color);
   color: var(--background-lite-color);
-
   border-radius: 4px;
 }
 
